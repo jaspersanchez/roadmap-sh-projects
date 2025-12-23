@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  justify-content: center;
+  line-height: 1.6; /* Better readability */
+  color: #333; /* Softer than pure black */
+}
+
+hr {
+  border: none;
+  height: 0;
+  margin: 1.5rem 0;
+}
+
+.cv {
+  padding: 2rem;
+  width: 80%;
+  max-width: 794px;
+  border: 2px solid black;
+}
+
+.cv-divider {
+  border: 1px solid black;
+  width: 80%;
+}
+
+.text-green {
+  color: #2a9d8f; /* professional green */
+}
+
+.text-blue {
+  color: dodgerblue;
+}
