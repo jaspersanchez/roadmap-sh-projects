@@ -8,8 +8,9 @@
       <a href="./frontend/01-single-page-cv">
         <img src="./frontend/01-single-page-cv/preview-square.png" width="150" height="150" style="border-radius:8px;" />
         <br/><strong>Single Page CV</strong>
-      </a>
-      <br/>✅ Complete
+      </a><br/>
+      <a href="https://roadmap.sh/projects/single-page-cv">Project Brief</a><br />
+      ✅ Complete
     </td>
   </tr>
 </table>
