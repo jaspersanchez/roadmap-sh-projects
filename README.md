@@ -1,1 +1,39 @@
-# roadmap-sh-projects
+# Roadmap.sh Projects
+
+## 🎨 Frontend Progress (1/24 Complete)
+
+<table>
+  <tr>
+    <td>
+      <a href="./frontend-projects/01-single-page-cv">
+        <img src="./frontend-projects/01-single-page-cv/preview.png" width="150" height="150" style="border-radius:8px; object-fit:cover; object-position: top;" />
+        <br/><strong>Single Page CV</strong>
+      </a>
+      <br/>✅ Complete
+    </td>
+  </tr>
+</table>
+
+## **[View All Frontend Projects (1/24) →](./frontend)**
+
+## 🎯 Goal
+
+Master the fundamentals and deepen your understanding of what happens under the hood.
+
+## 💼 Background
+
+- 3+ years as Full Stack Developer (Python Django, ReactJS)
+- Collabera Digital JUMP Program graduate
+- Built production applications but realized fundamental gaps exist
+
+## 🛠️ Production Experience
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaspersanchez09/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaspersanchez)
