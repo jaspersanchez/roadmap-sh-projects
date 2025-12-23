@@ -1,6 +1,6 @@
 ### ✅ Project #1 - Single Page CV
 
-[<img src="./preview.png" alt="CV Preview" width="300" style="border-radius:8px;" />](./preview.png)
+[<img src="./preview.png" alt="CV Preview" width="100%" style="border-radius:8px;" />](./preview.png)
 
 **Tech Stack:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -14,6 +14,6 @@
 - Open Graph social sharing
 - Professional CV layout
 
-**Links:** [Live Demo](#) • [Source Code](./frontend/01-single-page-cv) • [Project Brief](https://roadmap.sh/projects/single-page-cv)
+**Links:** [Live Demo](#) • [Project Brief](https://roadmap.sh/projects/single-page-cv)
 
 **Status:** ✅ Complete

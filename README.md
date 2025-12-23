@@ -5,8 +5,8 @@
 <table>
   <tr>
     <td>
-      <a href="./frontend-projects/01-single-page-cv">
-        <img src="./frontend-projects/01-single-page-cv/preview.png" width="150" height="150" style="border-radius:8px; object-fit:cover; object-position: top;" />
+      <a href="./frontend/01-single-page-cv">
+        <img src="./frontend/01-single-page-cv/preview.png" width="150" height="150" style="border-radius:8px; object-fit:cover; object-position: top;" />
         <br/><strong>Single Page CV</strong>
       </a>
       <br/>✅ Complete
