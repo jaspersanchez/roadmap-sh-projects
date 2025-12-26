@@ -7,15 +7,31 @@
     <td>
       <a href="./frontend/01-single-page-cv">
         <img src="./frontend/01-single-page-cv/preview-square.png" width="150" height="150" style="border-radius:8px;" />
-        <br/><strong>Single Page CV</strong>
-      </a><br/>
-      <a href="https://roadmap.sh/projects/single-page-cv">Project Brief</a><br />
+        <br/><strong>Single Page CV</strong><br />
+      </a>
+      <a href="https://roadmap.sh/projects/single-page-cv">Project Details</a><br />
       ✅ Complete
+    </td>
+    <td>
+      <a href="./frontend/02-basic-html-website/">
+        <img src="./frontend/02-basic-html-website/preview-square.png" width="150" height="150" style="border-radius:8px;" />
+        <br/><strong>Basic HTML Website</strong><br />
+      </a>
+      <a href="https://roadmap.sh/projects/basic-html-website">Project Details</a><br />
+      ✅ Complete
+    </td>
+    <td>
+      <a href="./frontend/03-personal-portfolio">
+        <img src="./assets/in-progress.png" width="150" height="150" style="border-radius:8px;" />
+        <br/><strong>Personal Porfolio</strong><br />
+      </a>
+      <a href="https://roadmap.sh/projects/portfolio-website">Project Details</a><br />
+      🚧 Ongoing
     </td>
   </tr>
 </table>
 
-## **[View All Frontend Projects (1/24) →](./frontend)**
+## **[View All Frontend Projects (3/24) →](./frontend)**
 
 ## 🎯 Goal
 

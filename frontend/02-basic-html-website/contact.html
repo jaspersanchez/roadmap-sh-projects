@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- CRITICAL: These must come FIRST -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- SEO Meta Tags -->
+    <meta
+      name="description"
+      content="Jasper Sanchez - Frontend Developer portfolio. Showcasing web development projects, experience, and education. HTML-only portfolio demonstrating semantic markup."
+    />
+    <meta
+      name="keywords"
+      content="Jasper Sanchez, Frontend Developer, portfolio, HTML, web developer, roadmap.sh, projects"
+    />
+    <meta name="author" content="Jasper Sanchez" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Open Graph Tags -->
+    <meta
+      property="og:title"
+      content="Jasper Sanchez - Frontend Developer Portfolio"
+    />
+    <meta
+      property="og:description"
+      content="Frontend developer portfolio showcasing projects, experience, and education. HTML-only semantic markup demonstration."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://jaspersanchez.dev" />
+    <meta
+      property="og:image"
+      content="https://jaspersanchez.dev/images/portfolio-preview.jpg"
+    />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="./images/favicon.svg" />
+
+    <title>Contact - Jasper Sanchez Portfolio</title>
+
+    <!-- Roboto Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles/main.css" />
+  </head>
+  <body class="container">
+    <header>
+      <nav>
+        <div class="nav-left">
+          <img
+            src="./images/logo.png"
+            alt="Jasper Sanchez Logo"
+            width="50"
+            height="50"
+          />
+          <p><strong>Jasper Sanchez</strong></p>
+        </div>
+        <ul class="nav-right">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="projects.html">Projects</a></li>
+          <li><a href="articles.html">Articles</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+
+      <div class="hero">
+        <h1>Frontend Developer</h1>
+        <p>HTML-only portfolio with proper layout, no styling</p>
+      </div>
+    </header>
+
+    <main>
+      <!-- Projects Sidebar -->
+      <aside>
+        <h2>Featured Projects</h2>
+        <ul class="projects">
+          <li><a href="#project1">HTML Only Portfolio</a></li>
+          <li><a href="#project2">Calculator</a></li>
+          <li><a href="#project3">Quiz App</a></li>
+          <li><a href="#project4">Countdown Timer</a></li>
+          <li><a href="#project5">Product Upcoming Page</a></li>
+        </ul>
+      </aside>
+
+      <!-- Main Content -->
+      <section>
+        <div class="contact-form">
+          <h2>Send a Message</h2>
+          <form action="#" method="POST">
+            <!-- Name Field -->
+            <div class="form-group">
+              <label for="name"
+                >Full Name <span class="required">*</span></label
+              >
+              <input
+                type="text"
+                id="name"
+                name="name"
+                placeholder="John Doe"
+                required
+                aria-required="true"
+              />
+            </div>
+
+            <!-- Email Field -->
+            <div class="form-group">
+              <label for="email"
+                >Email Address <span class="required">*</span></label
+              >
+              <input
+                type="email"
+                id="email"
+                name="email"
+                placeholder="john.doe@example.com"
+                required
+                aria-required="true"
+              />
+            </div>
+
+            <!-- Phone Field (Optional) -->
+            <div class="form-group">
+              <label for="message"
+                >Message <span class="required">*</span></label
+              >
+              <textarea
+                id="message"
+                name="message"
+                placeholder="type your message here..."
+                required
+                aria-required="true"
+              ></textarea>
+            </div>
+
+            <!-- Submit Button -->
+            <div class="form-group">
+              <button type="submit">Send Message</button>
+              <button type="reset">Clear Form</button>
+            </div>
+          </form>
+        </div>
+      </section>
+
+      <!-- Education Sidebar -->
+      <aside>
+        <h2>Education</h2>
+        <p>
+          <strong>Bachelor's Degree in Computer Science</strong><br />
+          Graduated with 3.76 out of 4 CGPA. Won Acme Hackathon. Organized 30
+          sessions.
+        </p>
+
+        <h3>Courses Completed:</h3>
+        <ul>
+          <li>Data Structures and Algorithms</li>
+          <li>Web Engineering</li>
+          <li>Artificial Intelligence</li>
+          <li>Human Computer Interaction</li>
+          <li>Computer Graphics</li>
+          <li>Database Management Systems</li>
+          <li>Distributed Database Systems</li>
+          <li>Discrete Mathematics</li>
+        </ul>
+      </aside>
+    </main>
+
+    <footer>
+      <section>
+        <h2>Reviews from my Teachers</h2>
+
+        <div class="reviews">
+          <article class="card">
+            <blockquote>
+              <p>
+                John Doe was a brilliant student; always stood out with his
+                assignments.
+              </p>
+            </blockquote>
+            <p><strong>Jane Doe</strong></p>
+            <p><em>Assistant Professor</em></p>
+          </article>
+
+          <article class="card">
+            <blockquote>
+              <p>
+                Exceptional problem-solving skills and dedication to learning
+                new technologies.
+              </p>
+            </blockquote>
+            <p><strong>Mark Smith</strong></p>
+            <p><em>Senior Lecturer</em></p>
+          </article>
+
+          <article class="card">
+            <blockquote>
+              <p>
+                Outstanding performance in web development projects. A natural
+                leader in group work.
+              </p>
+            </blockquote>
+            <p><strong>Sarah Johnson</strong></p>
+            <p><em>Department Head</em></p>
+          </article>
+        </div>
+      </section>
+
+      <hr />
+
+      <p class="copyright">
+        <small>&copy; 2025 Jasper Sanchez. All rights reserved.</small>
+      </p>
+    </footer>
+  </body>
+</html>

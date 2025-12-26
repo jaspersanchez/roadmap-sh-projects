@@ -1,4 +1,4 @@
-### ✅ Project #1 - Single Page CV
+### ✅ Project #2 - Basic HTML Website
 
 **Tech Stack:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -7,10 +7,10 @@
 
 **What I learned:**
 
-- Semantic HTML5 structure (header, address, time, footer)
-- SEO meta tags implementation
-- Open Graph tags for social sharing
-- Professional CV layout with proper semantic elements
+- Multi-page navigation structure
+- HTML forms with validation
+- CSS layouts (Grid/Flexbox)
+- Semantic HTML best practices
 
 **How to view:**
 
@@ -19,7 +19,7 @@
 git clone https://github.com/yourusername/roadmap-projects.git
 
 # Navigate to project
-cd roadmap-projects/frontend-projects/01-single-page-cv
+cd roadmap-projects/frontend-projects/02-basic-html-website
 
 # Open in browser (choose one):
 # Windows
@@ -36,4 +36,4 @@ xdg-open index.html
 
 **Status:** ✅ Complete
 
-[<img src="preview.png" alt="CV Preview" width="100%" style="border-radius:8px;" />](./preview.png)
+[<img src="./preview.png" alt="Basic HTML Website Preview" width="100%" style="border-radius:8px;" />](./preview.png)
